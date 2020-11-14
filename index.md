@@ -8,8 +8,8 @@
   agent-id="c24b5a21-2db8-47a2-af5f-2d7dc6113144"
   language-code="es"
 ></df-messenger>
-
-<div>Teachable Machine Image Model Byron Conforme</div>
+<br><br>
+<div>Deteccion de mascarilla - Byron Conforme</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
